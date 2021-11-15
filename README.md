@@ -1,0 +1,2 @@
+# kazuate_python
+以前Javaで作成した数当てゲームをPythonで書き直したもの
